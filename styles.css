@@ -21,8 +21,7 @@ body { font-family: "Verdana";
   }
 
   div {
-    max-width: 85%
-    border: solid 5px powderblue;
+    max-width: 85%; border: solid 5px powderblue;
     padding: 10px;
     }
 /* padding is the inside the border spacing */
