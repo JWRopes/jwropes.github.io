@@ -1,8 +1,5 @@
 /* Your CSS code goes in this file. */
 
-h1 {border-bottom: solid 10px powderblue; }
-/* the above creates a border, need to specify additional info */
-
 
 body { font-family: "Verdana";
        width: 960px;
