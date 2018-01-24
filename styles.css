@@ -9,20 +9,23 @@ body { font-family: "Verdana";
        margin: 10px auto;
 }
 
-  h1 { font-family: "Verdana"; color: black; font-size: 26px; }
-  h2 { font-family: "Verdana"; color: black; font-size: 20px; font-style: strong;}
-  h3 { font-family: "Verdana"; color: black; font-size: 14px; font-style: italic;}
+  h1 { font-family: "Verdana"; color: black; font-size: 26px; font-style: oblique}
+  h2 { font-family: "Verdana"; color: black; font-size: 20px; font-style: italic;}
+  h3 { font-family: "Verdana"; color: black; font-size: 14px; font-style: normal;}
 
 
-  body { font-family: "Verdana";
-       width: 960px;
-       margin: 10px auto;
-     }
+  body {
+     font-family: "Verdana";
+     width: 960px;
+     margin: 10px auto;
+  }
 
-  div { border: solid 5px powderblue;
-      padding: 10px;
+  div {
+    border: solid 5px powderblue;
+    padding: 10px;
     }
 /* padding is the inside the border spacing */
+
 
 .important {background-color: gray; }
 
@@ -39,7 +42,7 @@ span {
 
 p {
   font-family: "Verdana";
-  border: solid 2px black;
+  border: solid 2px powderblue;
   padding: 10px;
   max-width: 90%;
 }
