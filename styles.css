@@ -1,23 +1,28 @@
 /* Your CSS code goes in this file. */
 
+h1 {border-bottom: solid 10px powderblue; }
+/* the above creates a border, need to specify additional info */
+
+
 body { font-family: "Verdana";
        width: 960px;
-       margin: 20px auto;
+       margin: 10px auto;
 }
 
-h1 { font-family: "Verdana"; color: black; font-size: 26px; }
-h2 { font-family: "Verdana"; color: black; font-size: 20px; font-style: strong; }
-h3 { font-family: "Verdana"; color: black; font-size: 14px; text-decoration: underline;}
+  h1 { font-family: "Verdana"; color: black; font-size: 26px; }
+  h2 { font-family: "Verdana"; color: black; font-size: 20px; font-style: strong;}
+  h3 { font-family: "Verdana"; color: black; font-size: 14px; font-style: italic;}
 
-/* padding is the inside the border spacing */
 
-h1 {border-bottom: solid 5px powderblue; }
-/* the above creates a border and you need to specify additional info */
+  body { font-family: "Verdana";
+       width: 960px;
+       margin: 10px auto;
+     }
 
-div { border: solid 5px powderblue;
+  div { border: solid 5px powderblue;
       padding: 10px;
-}
-/* we link to this stylesheet via the html file */
+    }
+/* padding is the inside the border spacing */
 
 .important {background-color: gray; }
 
