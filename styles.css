@@ -21,6 +21,7 @@ can put in word "auto" to apply left and right and automatically center the imag
 h1 { color: black;  }
 /* above changes the h1 headings to red */
 
+h2 { color: black;  }
 h2 {border-bottom: solid 5px gray; }
 /* the above creates a border and you need to specify additional info */
 
