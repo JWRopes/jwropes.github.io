@@ -12,14 +12,13 @@ body { font-family: "Arial";
 /* margin for only two values is applied to top and bottom, very confusing.
 can put in word "auto" to apply left and right and automatically center the image */
 
- h1 { border: solid 10px black;
+ h1 { border: solid 30px black;
 
 }
 /* padding is the inside the border spacing */
 
 
-
-h1 { color: red;  }
+h1 { color: black;  }
 /* above changes the h1 headings to red */
 
 h2 {border-bottom: solid 5px gray; }
