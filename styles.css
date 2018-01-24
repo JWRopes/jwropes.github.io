@@ -21,7 +21,8 @@ body { font-family: "Verdana";
   }
 
   div {
-    max-width: 85%; border: solid 5px powderblue;
+    max-width: 85%;
+    border: solid 5px powderblue;
     padding: 10px;
     }
 /* padding is the inside the border spacing */
@@ -36,6 +37,9 @@ p {
 img {
   max-width: 85%
 }
+
+<LINK rel="stylesheet" type="text/css"
+     href="styles.css" title="Default Styles" media="screen">
 
 /* sometimes need quotation marks to understand terms as 1 word. Ex "helvetica neue" */
 /* order only matters if you do not specify the term */
