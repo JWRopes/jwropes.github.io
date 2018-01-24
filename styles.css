@@ -6,12 +6,12 @@ body { font-family: "Arial";
 }
 
 h1 { font-family: "Arial"; color: black; font-size: 28px; }
-h2 { font-family: "Arial"; color: black; font-size: 22px; font-style: italic; }
+h2 { font-family: "Arial"; color: black; font-size: 22px; font-style: strong; }
 h3 { font-family: "Arial"; color: black; font-size: 16px; text-decoration: underline;}
 
 /* padding is the inside the border spacing */
 
-h2 {border-bottom: solid 5px gray; }
+h2 {border-bottom: solid 5px powderblue; }
 /* the above creates a border and you need to specify additional info */
 
 div { border: solid 5px gray;
@@ -40,7 +40,7 @@ p {
 }
 
 img {
-  max-width: 90%
+  max-width: 80%
 }
 
 /* sometimes need quotation marks to understand terms as 1 word. Ex "helvetica neue" */
