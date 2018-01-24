@@ -1,25 +1,25 @@
 /* Your CSS code goes in this file. */
 
-body { font-family: "Arial";
+body { font-family: "Verdana";
        width: 960px;
        margin: 20px auto;
 }
 
-h1 { font-family: "Arial"; color: black; font-size: 28px; }
-h2 { font-family: "Arial"; color: black; font-size: 22px; font-style: strong; }
-h3 { font-family: "Arial"; color: black; font-size: 16px; text-decoration: underline;}
+h1 { font-family: "Verdana"; color: black; font-size: 26px; }
+h2 { font-family: "Verdana"; color: black; font-size: 20px; font-style: strong; }
+h3 { font-family: "Verdana"; color: black; font-size: 14px; text-decoration: underline;}
 
 /* padding is the inside the border spacing */
 
-h2 {border-bottom: solid 5px powderblue; }
+h1 {border-bottom: solid 5px powderblue; }
 /* the above creates a border and you need to specify additional info */
 
-div { border: solid 5px gray;
-      padding: 20px;
+div { border: solid 5px powderblue;
+      padding: 10px;
 }
 /* we link to this stylesheet via the html file */
 
-.important {background-color: yellow; }
+.important {background-color: gray; }
 
 div {
   border: solid 5px white;
@@ -33,7 +33,7 @@ span {
 }
 
 p {
-  font-family: "Arial";
+  font-family: "Verdana";
   border: solid 2px black;
   padding: 10px;
   max-width: 90%;
